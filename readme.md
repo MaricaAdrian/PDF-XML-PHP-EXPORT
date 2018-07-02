@@ -1,3 +1,4 @@
-### Practica 2018 ###
+### Practica ###
 
-* Version 0.0.1.
+* 0.0.1. Version
+* Website
