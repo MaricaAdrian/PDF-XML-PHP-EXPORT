@@ -31,7 +31,7 @@
             $xml->save("../documents/xml/" . $name);
 
             echo "Your XML file has been generated in your document folder (Name: ".$name.").";
-            
+
 
         }
     }
