@@ -1,7 +1,7 @@
 ### Practica 2018 ###
 
 * Version 1.0.0. 
-* Dynamic generated Websited
+* Dynamic generated Website
 
 ### Functions ###
 
